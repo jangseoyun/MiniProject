@@ -107,7 +107,9 @@ public class MiniApp {
 					}
 				}
 			} else if (inputNum.equals("5")) {
-				System.out.println("종료되었습니다");
+				System.out.println("##################################");
+				System.out.println("#        이용해주셔서 감사합니다        #");
+				System.out.println("##################################");
 				break;
 			} else {
 				System.out.println("[다시 입력해 주세요]");
